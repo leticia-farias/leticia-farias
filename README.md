@@ -1,25 +1,15 @@
 ## Hi there 👋
 
-<!--
-**leticia-farias/leticia-farias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou uma estudante do bacharelado de Engenharia de Software no terceiro semestre. Atualmente estou aprendendo Java, desenvolvimento web (com HTML5. CSS3 e Javascript) e mobile (com Flutter). 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Bruna GitHub stats](https://github-readme-stats.vercel.app/api?username=leticia-farias&show_icons=true&theme=synthwave)
+### GitHub Stats
+![Letícia GitHub stats](https://github-readme-stats.vercel.app/api?username=leticia-farias&show_icons=true&theme=synthwave)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-farias&hide_progress=false)
 
+### Stacks
 <div style=" display: inline_block">
+    <img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
      <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
      <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
@@ -35,7 +25,8 @@ Here are some ideas to get you started:
 ### Studying in this moment:
 
 <div style=" display: inline_block">
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img align="center" alt="dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
+    <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
 </div>
 
 <picture align="center">
