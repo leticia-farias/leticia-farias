@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Bruna GitHub stats](https://github-readme-stats.vercel.app/api?username=leticia-farias&show_icons=true&theme=synthwave)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-farias&hide_progress=false)
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leticia-farias/leticia-farias/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leticia-farias/leticia-farias/output/github-contribution-grid-snake-dark.svg">
