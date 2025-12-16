@@ -2,7 +2,7 @@
 
 ---
 
-### Oiê! Sou Letícia Farias
+## Oiê! Sou Letícia Farias
 
 Sou graduanda em **Engenharia de Software** no quarto semestre. Minha paixão é transformar ideias em experiências digitais. Aqui você encontra meus projetos, aprendizados e desafios :)
 
@@ -25,6 +25,7 @@ Atualmente, estou focada em aprender e aprofundar meus conhecimentos em:
     <img align="left" alt="dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
     <img align="left" alt="flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
     <img align="left" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+    <br>
 </div>
 
 #### ✧. ┊ ⁭Frameworks e Bancos de Dados
@@ -33,8 +34,8 @@ Atualmente, estou focada em aprender e aprofundar meus conhecimentos em:
     <img align="left" alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
     <img align="left" alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/> 
     <img align="left" alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <br>
 </div>
-<br>
 
 #### ✧. ┊ ⁭Outros Conhecimentos
 <div>
@@ -45,10 +46,9 @@ Atualmente, estou focada em aprender e aprofundar meus conhecimentos em:
 <br>
 
 ### ✧ ˚ ·  . Estatísticas do GitHub
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=leticia-farias&theme=material-palenight&hide_border=true" alt="Streak do GitHub da Letícia Farias" />
-    <img src="https://github-readme-stats.vercel.app/api?username=leticia-farias&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" alt="Estatísticas do GitHub da Letícia Farias" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-farias&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" alt="Principais Linguagens da Letícia Farias" />
+<div>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leticia-farias&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" alt="Estatísticas do GitHub da Letícia Farias" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-farias&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" alt="Principais Linguagens da Letícia Farias" />
 </div>
 
 <br>
