@@ -1,23 +1,24 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=A28DB8&background=C8B7D800&vCenter=true&random=true&width=435&separator=%3D&lines=System.out.println(%22Hello%2C+World%22);%3D%3Ch1%3EHello%2C+World!%3C%2Fh1%3E)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=A28DB8&background=C8B7D800&center=true&vCenter=true&random=true&width=600&separator=%3D&lines=System.out.println(%22Hello%2C+World%22);%3D%3Ch1%3EHello%2C+World!%3C%2Fh1%3E" alt="Typing SVG" /></a>
+</div>
 
----
+<div align="center"> ∘₊✧─── ⋅ ✧ ⋅ ───✧₊∘ </div>
 
 ### Oiê! Sou Letícia Farias
-
 <div>
   <img align="right" width="30%" alt="Snoopy Joe Cool GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RyazV2cTBjMmVlY2RhcjdteDFjaTIyOWZmZ2VlbGc0ZzUzbXE3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rgNlPNOZUVJpC/giphy.gif"/>
 </div>
 
 Sou graduanda em **Engenharia de Software** no quarto semestre. Minha paixão é transformar ideias em experiências digitais. 
 
-Aqui você encontra meus projetos, aprendizados e desafios :)
+Aqui você encontra meus projetos, aprendizados e desafios. 
 
 Atualmente, estou focada em aprender e aprofundar meus conhecimentos em:
 * **Java**
 * **Desenvolvimento Web** (HTML5, CSS3, JavaScript)
 * **Desenvolvimento Mobile** (Flutter)
 
----
+<br>
 
 ### ✧ ˚ ·  . Stacks e Conhecimentos
 
@@ -56,9 +57,15 @@ Atualmente, estou focada em aprender e aprofundar meus conhecimentos em:
 </div>
 
 <br>
-
-### ✧ ˚ ·  . Vamos nos conectar!
-
-**LinkedIn:** [https://www.linkedin.com/in/leticiafariasb/](https://www.linkedin.com/in/leticiafariasb/)
 <br>
-**Email:** [mailto:leticiafarias.engsoftware@gmail.com](mailto:leticiafarias.engsoftware@gmail.com)
+
+<div align="center"> ∘₊✧─── ⋅ ✧ ⋅ ───✧₊∘ </div>
+
+<div align="center">
+  
+  ### Vamos nos conectar!
+  
+  **LinkedIn:** ![https://www.linkedin.com/in/leticiafariasb/](https://www.linkedin.com/in/leticiafariasb/)
+  <br>
+  **Email:** [mailto:leticiafarias.engsoftware@gmail.com](mailto:leticiafarias.engsoftware@gmail.com)
+</div>
