@@ -4,11 +4,13 @@
 
 <div align="center"> ∘₊✧─── ⋅ ✧ ⋅ ───✧₊∘ </div>
 
-### Oiê! Sou Letícia Farias
 <div>
-  <img align="right" width="30%" alt="Snoopy Joe Cool GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RyazV2cTBjMmVlY2RhcjdteDFjaTIyOWZmZ2VlbGc0ZzUzbXE3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rgNlPNOZUVJpC/giphy.gif"/>
+  <a href="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nm40bG1jcjMyaDZ6YWt0Zmh0a2U2aXZsNnNwNDlvaHJwbmdpYWp5MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hFYtHWiPqNZuEsXm8q/giphy.gif">
+    <img align="right" width="30%"   src="assets/snoopy.webp" alt="Typing SVG" />
+  </a>
 </div>
 
+### Oiê! Sou Letícia Farias
 Sou graduanda em **Engenharia de Software** no quarto semestre. Minha paixão é transformar ideias em experiências digitais. 
 
 Aqui você encontra meus projetos, aprendizados e desafios. 
@@ -59,13 +61,22 @@ Atualmente, estou focada em aprender e aprofundar meus conhecimentos em:
 <br>
 <br>
 
-<div align="center"> ∘₊✧─── ⋅ ✧ ⋅ ───✧₊∘ </div>
 
+<div>
+  <img align="left" width="15%" alt="Stars" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Ynk5dnJxM3pxaDU0azg2ZG96bGcwd2o0dW8zeXRndzBpc2JxODkzdCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/rg6nwgtg9obIIMmHSf/giphy.gif"/>
+</div>
+
+<div>
+  <img align="right" width="15%" alt="Stars" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmwzbnNzcW9hbW14dXoydHBxNjFrZmdqMWY1ZXVsMTF3MGdmNjJpYiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jpKlNbBURKzrYEZKyh/giphy.gif"/>
+</div>
+
+<div align="center"> ∘₊✧─── ⋅ ✧ ⋅ ───✧₊∘ </div>
 <div align="center">
   
-  ### Vamos nos conectar!
-  
-  **LinkedIn:** ![https://www.linkedin.com/in/leticiafariasb/](https://www.linkedin.com/in/leticiafariasb/)
-  <br>
-  **Email:** [mailto:leticiafarias.engsoftware@gmail.com](mailto:leticiafarias.engsoftware@gmail.com)
+### Vamos nos conectar!
+</div>
+
+<div align="center">
+  <a href = "mailto:leticiafarias.engsoftware@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leticiafariasb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
