@@ -11,14 +11,14 @@
 </div>
 
 ### Oiê! Sou Letícia Farias
-Sou graduanda em **Engenharia de Software** no quarto semestre. Minha paixão é transformar ideias em experiências digitais. 
+Sou graduanda em **Engenharia de Software** no sexto semestre. Minha paixão é transformar ideias em experiências digitais. 
 
 Aqui você encontra meus projetos, aprendizados e desafios. 
 
 Atualmente, estou focada em aprender e aprofundar meus conhecimentos em:
 * **Java**
-* **Desenvolvimento Web** (HTML5, CSS3, JavaScript)
-* **Desenvolvimento Mobile** (Flutter)
+* **Desenvolvimento Mobile** 
+* **Desenvolvimento Web**
 
 <br>
 
@@ -27,12 +27,11 @@ Atualmente, estou focada em aprender e aprofundar meus conhecimentos em:
 #### ✧. ┊ ⁭Linguagens e Ferramentas
 <div>
     <img alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img alt="kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+    <img alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img alt="dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
-    <img alt="flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
     <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>  
 </div>
 
